@@ -1,5 +1,0 @@
-Credentials cache: API:AABA7151-F45A-4194-BF59-3F2822268E3B
-        Principal: bmin@42SEOUL.KR
-
-  Issued                Expires               Principal
-Apr 13 20:03:09 2022  Apr 14 06:03:09 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
